@@ -1,6 +1,7 @@
 ## AWS Pop Quiz Periode 22 Mei 2023 - 26 Mei 2023
 
-![AWS POP QUIZ - 1](https://github.com/awsugid/.github/assets/469847/cacf51ee-6fba-4fd2-bd37-33a81bbce985)
+![AWS POP QUIZ - 1](https://github.com/awsugid/.github/assets/469847/6c6bb280-743f-4df6-9e78-6ed309032759)
+
 
 ## Forum Diskusi
 
