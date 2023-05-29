@@ -1,13 +1,17 @@
-## AWS Pop Quiz Periode 22 Mei 2023 - 26 Mei 2023
+## Pemenang AWS Pop Quiz 01
 
-Ikuti quiz-nya di https://s.id/awsugid-kuis01. Pemenang diambil berdasarkan poin tertinggi. Jika ada yang memiliki poin sama maka penentuan pemenang akan diundi.
+Selamat kepada [pemenang Quiz 01](https://github.com/awsugid/forum/discussions/9). Detilnya dapat dilihat di thread forum diskusi.
+
+## AWS Pop Quiz 02 Periode 29 Mei 2023 - 02 Juni 2023
+
+Ikuti quiz-nya di https://s.id/awsugid-kuis02. Pemenang diambil berdasarkan poin tertinggi. Jika ada yang memiliki poin sama maka penentuan pemenang akan diundi.
 
 Live streaming pengumuman pemenang dapat disaksikan di-channel berikut:
 
-- [AWS User Group Indonesia](https://www.youtube.com/watch?v=_3HPBD9Mr0s)
-- [Indonesia Belajar](https://www.youtube.com/watch?v=K292Fw6Prmc)
+- AWS User Group Indonesia \(link streaming menyusul)
+- Indonesia Belajar \(link streaming menyusul)
 
-![AWS POP QUIZ - 1](https://github.com/awsugid/.github/assets/469847/6c6bb280-743f-4df6-9e78-6ed309032759)
+![AWS POP QUIZ - 2](https://github.com/awsugid/.github/assets/469847/95db0562-fdfd-48cb-968b-fd89463851d0)
 
 ## Forum Diskusi
 
