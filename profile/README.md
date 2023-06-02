@@ -8,8 +8,8 @@ Ikuti quiz-nya di https://s.id/awsugid-kuis02. Pemenang diambil berdasarkan poin
 
 Live streaming pengumuman pemenang dapat disaksikan di-channel berikut:
 
-- AWS User Group Indonesia \(link streaming menyusul)
-- Indonesia Belajar \(link streaming menyusul)
+- [AWS User Group Indonesia](https://www.youtube.com/watch?v=kGunJxiiNvA)
+- [Indonesia Belajar](https://www.youtube.com/watch?v=npNXmdAJdSU)
 
 ![AWS POP QUIZ - 2](https://github.com/awsugid/.github/assets/469847/95db0562-fdfd-48cb-968b-fd89463851d0)
 
