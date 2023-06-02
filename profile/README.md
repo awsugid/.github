@@ -1,6 +1,9 @@
-## Pemenang AWS Pop Quiz 01
+## Daftar Pemenang AWS Pop Quiz
 
-Selamat kepada [pemenang Quiz 01](https://github.com/awsugid/forum/discussions/9). Detilnya dapat dilihat di thread forum diskusi.
+Selamat kepada para pemenang AWS POP Quiz, detilnya dapat dilihat di thread forum diskusi.
+
+- [Pemenang AWS POP Quiz 01]((https://github.com/awsugid/forum/discussions/9)
+- Pemenang AWS POP Quiz 02 \(link menyusul) 
 
 ## AWS Pop Quiz 02 Periode 29 Mei 2023 - 02 Juni 2023
 
