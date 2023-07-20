@@ -24,6 +24,15 @@ Live streaming pengumuman pemenang dapat disaksikan di-channel berikut:
 
 Silahkan menuju [forum diskusi](https://github.com/awsugid/forum/discussions) untuk bertanya atau berdiskusi seputar AWS dengan pengguna lain. Mari saling berbagi ilmu!
 
+### Mari Bergabung
+
+Join dan ikuti media sosial Komunitas AWS User Group Indonesia:
+- [Twitter](https://twitter.com/AWSUserGroupID/)
+- [Telegram](https://t.me/AWSUserGroupID)
+- [Instagram](https://instagram.com/awsugid)
+- [LinkedIn Page](https://www.linkedin.com/company/awsugid)
+- [Facebook Group](https://web.facebook.com/groups/awsindonesia)
+
 ## Tim
 
 Repository ini dikelola oleh:
