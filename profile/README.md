@@ -19,7 +19,7 @@ Live streaming pengumuman pemenang dapat disaksikan di-channel berikut:
 - [Indonesia Belajar](https://www.youtube.com/@belajaridn/streams)
 
 
-![AWS POP QUIZ - 7(2)](https://github.com/awsugid/.github/assets/26140300/d9924a4c-a935-4192-a14f-5cec4633a7c4)
+![AWS POP QUIZ - 7(4)](https://github.com/awsugid/.github/assets/26140300/ddbb9517-a116-4926-a735-5f1c39b3846a)
 
 
 ## Forum Diskusi
