@@ -11,7 +11,7 @@ Selamat kepada para pemenang AWS POP Quiz, detilnya dapat dilihat di thread foru
 - [Pemenang AWS POP Quiz 06](https://github.com/awsugid/forum/discussions/18)
 
 
-## AWS Pop Quiz 08 - Periode 31 Juli 2023 - 04 Juli 2023
+## AWS Pop Quiz 08 - Periode 31 Juli 2023 - 04 Agustus 2023
 
 Ikuti quiz-nya di https://s.id/awsugid-kuis08. Pemenang diambil berdasarkan poin tertinggi. Jika ada yang memiliki poin sama maka penentuan pemenang akan diundi.
 
