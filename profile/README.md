@@ -1,3 +1,18 @@
+## Workshop Amazon EC2 Spot Instances
+![AWS Workshop 01](https://github.com/awsugid/.github/assets/469847/e5025bb1-c701-42e8-ba4e-6bf96662742d)
+
+Halo semua!
+
+AWS User Group Indonesia mau ngadain workshop, nih! Workshop pertama akan membahas topik EC2 Spot Instances dan akan diadakan secara daring melalui channel AWS User Group Indonesia pada hari Sabtu 16 Sep 2023 pukul 20:00. Beminat? 
+
+Yuk ikut kuis ini dan lima peserta terpilih akan berkesempatan untuk berpartisipasi, berdiskusi, dan belajar bareng menggunakan hands-on lab di Amazon Web Services (AWS).
+
+Kuis akan dibuka pada hari Senin 04 Sep 2023 pukul 13:00 WIB sampai Rabu 06 Sept pukul 23:59 WIB dan peserta terpilih akan diumumkan pada hari Jumat 08 Sep 2023 pukul 13:00 WIB.
+
+Semoga beruntung dan semangat belajar!
+
+Register Quiz di https://s.id/awsugid-ws01
+
 ## Daftar Pemenang AWS Pop Quiz
 
 Selamat kepada para pemenang AWS POP Quiz, detilnya dapat dilihat di thread forum diskusi.
